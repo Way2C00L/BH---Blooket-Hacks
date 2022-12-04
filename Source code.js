@@ -10,4 +10,4 @@
 
 javascript: if (window.location == "https://play.blooket.com/play") {alert("Still in beta, no script attached") } else {alert("Redirecting to play.blooket.com/play"); window.location.replace("https://play.blooket.com/play")}
 
-Made by canbegold
+//Made by canbegold
